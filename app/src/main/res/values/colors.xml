@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF101828</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Campus Pulse brand palette -->
+    <color name="primaryColor">#4F46E5</color>
+    <color name="primaryLightColor">#7770EE</color>
+    <color name="primaryDarkColor">#3730A3</color>
+    <color name="secondaryColor">#0E9F8C</color>
+    <color name="secondaryLightColor">#4CC7B6</color>
+    <color name="secondaryDarkColor">#087668</color>
+
+    <color name="primaryTextColor">#FFFFFFFF</color>
+    <color name="secondaryTextColor">#FF1D2939</color>
+    <color name="surfaceColor">#FFF7F8FC</color>
+    <color name="surfaceMuted">#FFF0F2F8</color>
+    <color name="cardBackground">#FFFFFFFF</color>
+    <color name="textPrimary">#FF182230</color>
+    <color name="textSecondary">#FF667085</color>
+    <color name="outlineColor">#FFD9DEEA</color>
+    <color name="primarySoft">#FFEDEBFF</color>
+    <color name="secondarySoft">#FFDCF7F2</color>
+</resources>
