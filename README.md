@@ -1,4 +1,8 @@
-# Campus Pulse
+<div align="center">
+
+![Campus Pulse — animated project overview](./docs/assets/readme/campus-pulse-hero.svg)
+
+</div>
 
 [![Android](https://img.shields.io/badge/platform-Android-3ddc84?logo=android&logoColor=white)](./app)
 [![Kotlin](https://img.shields.io/badge/language-Kotlin-7f52ff?logo=kotlin&logoColor=white)](./app/src/main/java)
